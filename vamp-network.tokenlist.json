@@ -1,0 +1,37 @@
+{
+  "name": "VAMP Network Token List",
+  "logoURI": "https://i.imgur.com/zQtbbZ5.png",
+  "keywords": ["staking", "vamp", "network"],
+  "tags": {
+    "staking": {
+      "name": "Staking",
+      "description": "Token VAMP éligible au staking (4% - 6% - 8%)"
+    }
+  },
+  "timestamp": "2025-08-06T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "8NRkLGMT1vxNVBn1c7jaHG7g5BYYLeCCPLEPq2y4fgwN",
+      "symbol": "VAMP",
+      "name": "VAMP Network",
+      "decimals": 9,
+      "logoURI": "https://i.imgur.com/zQtbbZ5.png",
+      "tags": ["staking"],
+      "extensions": {
+        "website": "https://discord.gg/MghUGzNF",
+        "discord": "https://discord.gg/MghUGzNF",
+        "description": "VAMP Network est un token conçu pour le staking progressif avec 3 paliers de récompenses : 4%, 6%, et 8% maximum, pour assurer une croissance durable et équilibrée.",
+        "images": [
+          "https://i.imgur.com/QgwXLt6.png",
+          "https://i.imgur.com/ZvJCjSg.png"
+        ]
+      }
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
