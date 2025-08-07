@@ -1,0 +1,23 @@
+{
+  "name": "VAMP Network Token List",
+  "logoURI": "https://raw.githubusercontent.com/MIB0007/vamp-network-tokenlist/main/assets/8NRkE7NU1r7Qe2w1xZ44R6rmqBdGfx13HkRWoKjZPK7R/logo.png",
+  "tags": {},
+  "timestamp": "2025-08-06T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "8NRkE7NU1r7Qe2w1xZ44R6rmqBdGfx13HkRWoKjZPK7R",
+      "symbol": "VAMP",
+      "name": "VAMP Network",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/MIB0007/vamp-network-tokenlist/main/assets/8NRkE7NU1r7Qe2w1xZ44R6rmqBdGfx13HkRWoKjZPK7R/logo.png",
+      "tags": []
+    }
+  ]
+}
+],
+"version": {
+  "major": 1,
+  "minor": 0,
+  "patch": 0
+}
