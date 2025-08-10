@@ -5,13 +5,24 @@
   "image": "https://raw.githubusercontent.com/MI80007/vamp-network-tokenlist/main/logo.png",
   "external_url": "https://vampnetwork.io/",
   "attributes": [
-    {"trait_type": "Utility", "value": "NFT Utilities"},
-    {"trait_type": "Rewards", "value": "Staking"},
-    {"trait_type": "Governance", "value": "Community"}
+    { "trait_type": "Utility", "value": "NFT Utilities" },
+    { "trait_type": "Rewards", "value": "Staking" },
+    { "trait_type": "Governance", "value": "Community" }
   ],
   "seller_fee_basis_points": 0,
   "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/MI80007/vamp-network-tokenlist/main/logo.png",
+        "type": "image/png"
+      }
+    ],
     "category": "image",
-    "creators": [{"address": "Dv6ZdynTwGb7rvCpq8BsazwDtpCftWA5b1JpL9gPn4CM", "share": 100}]
+    "creators": [
+      {
+        "address": "Dv6ZdynTwGb7rvCpq8BsazbQtpCfH4Su13Lp9gPM4CH",
+        "share": 100
+      }
+    ]
   }
 }
