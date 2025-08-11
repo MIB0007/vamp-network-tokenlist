@@ -1,22 +1,14 @@
 {
-  "name": "VAMP Network Token List",
-  "tags": {},
-  "timestamp": "2025-08-10T00:00:00Z",
-  "tokens": [
-    {
-      "chainId": 101,
-      "address": "8NRkLGMT1vxNVBn1c7JaHG7g5BYYLeCCPLEpQ2y4fgwN",
-      "symbol": "VAMP",
-      "name": "VAMP Network",
-      "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/MI80007/vamp-network-tokenlist/main/assets/8NRkLGMT1vxNVBn1c7JaHG7g5BYYLeCCPLEpQ2y4fgwN/logo.png",
-      "tags": ["utility", "staking", "community"],
-      "extensions": {
-        "website": "https://vampnetwork.io/",
-        "discord": "https://discord.gg/yourInvite",
-        "twitter": "https://x.com/yourhandle"
-      }
-    }
-  ],
-  "version": { "major": 1, "minor": 0, "patch": 0 }
+  "chainId": 101,
+  "address": "8NRkLGMT1vxNVBn1c7JaHG7g5BYYLeCCPLEpQ2y4fgwN",
+  "symbol": "VAMP",
+  "name": "VAMP Network",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/MI80007/vamp-network-tokenlist/main/logo.png",
+  "tags": ["utility", "staking", "community"],
+  "extensions": {
+    "website": "https://vampnetwork.io/",
+    "discord": "https://discord.gg/yourinvite",
+    "twitter": "https://x.com/yourhandle"
+  }
 }
