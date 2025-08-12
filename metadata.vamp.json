@@ -1,15 +1,15 @@
 {
   "name": "VAMP Network",
   "symbol": "VAMP",
-  "description": "🦇 VAMP Network 🦇\nWelcome to the world of Vampy, our adorable kawaii vampire 🧛‍♂️ With a bold mission:\nTo build a rare, community-driven, and sustainable token on the Solana ecosystem.\n\n🌙 Key Features\n\n🔒 Limited Supply — Only 100,000,000 VAMP, balancing accessibility and scarcity.\n\n🪙 Progressive Staking — Rewards range from 4% to 8%, with 3 tiers to incentivize loyalty and promote sustainable growth.\n\n🦇 Kawaii & Dark Community — A unique world of adorable bats and mysterious vibes — cute meets cryptic.\n\n🏰 Long-Term Vision — A transparent and evolving ecosystem built around VAMP Network.\n\n💬 Join the Night Clan\n\n➡️ Discord: https://discord.gg/MghUGzNF\n\n➡️ Website: https://mib0007.github.io/vampnetwork.github.io/\n\n✨ Be part of the nocturnal clan and help us make the moon 🌕 shine above the crypto community!",
+  "description": "VAMP Network est un token SPL sur Solana, orienté communauté, avec utilités NFT et staking.",
   "image": "https://raw.githubusercontent.com/MI80007/vamp-network-tokenlist/main/logo.png",
   "external_url": "https://mib0007.github.io/vampnetwork.github.io/",
+  "seller_fee_basis_points": 0,
   "attributes": [
     { "trait_type": "Utility", "value": "NFT Utilities" },
     { "trait_type": "Rewards", "value": "Staking" },
     { "trait_type": "Community", "value": "Kawaii & Dark" }
   ],
-  "seller_fee_basis_points": 0,
   "properties": {
     "files": [
       {
@@ -24,5 +24,7 @@
         "share": 100
       }
     ]
-  }
+  },
+  "collection": null,
+  "uses": null
 }
