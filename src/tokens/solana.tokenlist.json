@@ -1,15 +1,15 @@
 {
   "chainId": 101,
-  "address": "8NRkLGMT1vxNVBn1c7aJb95YWEcCPLlEp6yAjFqW4p4N",
+  "address": "8NRkLGMT1vxNVBn1c7jaHG7g5BYYLeCCPLEPq2y4fgwN",
   "symbol": "VAMP",
   "name": "VAMP Network",
   "decimals": 9,
-  "logoURI": "https://raw.githubusercontent.com/MI80007/vamp-network-tokenlist/main/logo.png",
-  "tags": ["utility", "staking", "community", "kawaii", "gaming"],
+  "logoURI": "https://raw.githubusercontent.com/MIB0007/vamp-network-tokenlist/main/logo.png?v=8",
+  "tags": ["utility", "staking", "community", "kawaii"],
   "extensions": {
     "website": "https://mib0007.github.io/vampnetwork.github.io/",
     "discord": "https://discord.gg/MghUGzNF",
     "twitter": "https://x.com/vampnetwork",
-    "description": "🦇 VAMP Network 🦇\nWelcome to the world of Vampy, our adorable kawaii vampire 🧛‍♂️ With a bold mission:\nTo build a rare, community-driven, and sustainable token on the Solana ecosystem.\n\n🌙 Key Features\n\n🔒 Limited Supply — Only 100,000,000 VAMP, balancing accessibility and scarcity.\n\n🪙 Progressive Staking — Rewards range from 4% to 8%, with 3 tiers to incentivize loyalty and promote sustainable growth.\n\n🦇 Kawaii & Dark Community — A unique world of adorable bats and mysterious vibes — cute meets cryptic.\n\n🏰 Long-Term Vision — A transparent and evolving ecosystem built around VAMP Network.\n\n💬 Join the Night Clan\n\n➡️ Discord: https://discord.gg/MghUGzNF\n➡️ Website: https://mib0007.github.io/vampnetwork.github.io/\n\n✨ Be part of the nocturnal clan and help us make the moon 🌕 shine above the crypto community!"
+    "description": "VAMP Network is a community-driven Solana token with NFT utilities and staking."
   }
 }
