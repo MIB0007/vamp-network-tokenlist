@@ -1,15 +1,23 @@
 {
-  "chainId": 101,
-  "address": "8NRkLGMT1vxNVBn1c7jaHG7g5BYYLeCCPLEPq2y4fgwN",
-  "symbol": "VAMP",
-  "name": "VAMP Network",
-  "decimals": 9,
+  "name": "VAMP Network Tokenlist",
   "logoURI": "https://raw.githubusercontent.com/MIB0007/vamp-network-tokenlist/main/logo.png?v=8",
-  "tags": ["utility", "staking", "community", "kawaii"],
-  "extensions": {
-    "website": "https://mib0007.github.io/vampnetwork.github.io/",
-    "discord": "https://discord.gg/MghUGzNF",
-    "twitter": "https://x.com/vampnetwork",
-    "description": "VAMP Network is a community-driven Solana token with NFT utilities and staking."
-  }
+  "tags": {},
+  "timestamp": "2025-08-12T00:00:00Z",
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "8NRkLGMT1vxNVBn1c7jaHG7g5BYYLeCCPLEPq2y4fgwN",
+      "symbol": "VAMP",
+      "name": "VAMP Network",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/MIB0007/vamp-network-tokenlist/main/logo.png?v=8",
+      "tags": ["utility", "staking", "community", "kawaii"],
+      "extensions": {
+        "website": "https://mib0007.github.io/vampnetwork.github.io/",
+        "discord": "https://discord.gg/MghUGzNF",
+        "twitter": "https://x.com/vampnetwork",
+        "description": "VAMP Network is a community-driven Solana token with NFT utilities and staking."
+      }
+    }
+  ]
 }
