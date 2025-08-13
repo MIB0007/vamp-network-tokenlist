@@ -2,18 +2,18 @@
   "name": "VAMP Network",
   "symbol": "VAMP",
   "description": "VAMP Network est un token SPL sur Solana, orienté communauté, avec utilités NFT et staking.",
-  "image": "https://raw.githubusercontent.com/MIB0007/vamp-network-tokenlist/main/logo.png?v=8",
-  "external_url": "https://mib0007.github.io/vampnetwork.github.io/",
+  "image": "https://raw.githubusercontent.com/MIB0007/vamp-network-tokenlist/main/logo.png?v=9",
+  "external_url": "https://vampnetwork.io/",
   "seller_fee_basis_points": 0,
   "attributes": [
-    { "trait_type": "Utility", "value": "NFT Utilities" },
-    { "trait_type": "Rewards", "value": "Staking" },
+    { "trait_type": "Utility",   "value": "NFT Utilities" },
+    { "trait_type": "Rewards",   "value": "Staking" },
     { "trait_type": "Community", "value": "Kawaii & Dark" }
   ],
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/MIB0007/vamp-network-tokenlist/main/logo.png?v=8",
+        "uri": "https://raw.githubusercontent.com/MIB0007/vamp-network-tokenlist/main/logo.png?v=9",
         "type": "image/png"
       }
     ],
@@ -21,5 +21,12 @@
     "creators": [
       { "address": "Dv6ZdynTwGb7rvCpq8BsazwDtpCftWA5b1JpL9gPn4CM", "share": 100 }
     ]
-  }
+  },
+  "extensions": {
+    "website": "https://vampnetwork.io/",
+    "twitter": "https://x.com/Vamp_Network",
+    "discord": "https://discord.gg/xxxxxxxx",
+    "github": "https://github.com/MIB0007/vamp-network-tokenlist"
+  },
+  "tags": ["solana", "spl-token", "defi", "staking", "community", "nft"]
 }
