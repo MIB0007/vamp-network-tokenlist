@@ -2,7 +2,7 @@
   "name": "VAMP Network",
   "symbol": "VAMP",
   "description": "VAMP Network est un token SPL sur Solana, orienté communauté, avec utilités NFT et staking.",
-  "image": "https://raw.githubusercontent.com/MI80007/vamp-network-tokenlist/main/logo.png",
+  "image": "https://raw.githubusercontent.com/MIB0007/vamp-network-tokenlist/main/logo.png?v=8",
   "external_url": "https://mib0007.github.io/vampnetwork.github.io/",
   "seller_fee_basis_points": 0,
   "attributes": [
@@ -13,18 +13,13 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/MI80007/vamp-network-tokenlist/main/logo.png",
+        "uri": "https://raw.githubusercontent.com/MIB0007/vamp-network-tokenlist/main/logo.png?v=8",
         "type": "image/png"
       }
     ],
     "category": "image",
     "creators": [
-      {
-        "address": "Dv6ZdynTwGb7rvCpq8BsazwDtpCftWA5b1JpL9gPn4CM",
-        "share": 100
-      }
+      { "address": "Dv6ZdynTwGb7rvCpq8BsazwDtpCftWA5b1JpL9gPn4CM", "share": 100 }
     ]
-  },
-  "collection": null,
-  "uses": null
+  }
 }
